@@ -1,4 +1,4 @@
-# ✅ Solution 1 — Fork & Extend an Open-Source Project using Cursor
+# ✅ Solution 2 — Fork & Extend an Open-Source Project using Cursor
 
 ## Project Chosen
 
