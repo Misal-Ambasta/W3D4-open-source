@@ -1,4 +1,9 @@
 # W3D4-open-source
+```markdown
+1. The Open Source Contributor
+2. Fork & Extend an Open-Source Project using Cursor
+```
+
 
 # 🔍 Question 1 — The Open Source Contributor
 
